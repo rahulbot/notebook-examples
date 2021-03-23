@@ -8,7 +8,7 @@ This includes a few Jupyter Python Notebooks I use as examples in my teaching.
 For quickly testing this out, we recommend launching this repo directly in Binder. Click this button to build and launch
 a Jupyter Lab environment fully set up and ready to use!🎉👍🏽
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahulbot/Media-Cloud-API-Tuturial-Notebooks/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahulbot/notebook-examples/master?urlpath=lab)
 
 ## Run on Your Own Machine.
 
