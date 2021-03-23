@@ -1,2 +1,8 @@
 .ipynb_checkpoints
-
+data/MA-city-year-avg.csv
+*.model
+Vision-Example-2dc99ed7b35b.json
+data/daily_88101_2019.csv
+data/daily_88101_2020.csv
+data/daily_88101_2019.zip
+data/daily_88101_2020.zip

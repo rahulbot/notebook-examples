@@ -1,3 +1,6 @@
 jupyter
 requests[security]
 beautifulsoup4
+altair
+numpy
+pandas
